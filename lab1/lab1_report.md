@@ -1,5 +1,3 @@
-![image](https://github.com/vshabashov/2023_2024-network_programming-k34202-Shabashov-Vasiliy-Andreevich/assets/157371606/7335f670-f6bb-4384-be4c-3eb3d1a2252b)
-![image](https://github.com/vshabashov/2023_2024-network_programming-k34202-Shabashov-Vasiliy-Andreevich/assets/157371606/ab20d88a-cd01-4936-b4fa-3708818d351a)
 University: [ITMO University](https://itmo.ru/ru/) \
 Faculty: [FICT](https://fict.itmo.ru) \
 Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming) \
